@@ -1,0 +1,1 @@
+for I in[*open(0)][1:]:A=int(I);print(A*(A+3)//2%4096)
